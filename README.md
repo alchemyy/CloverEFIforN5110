@@ -1,4 +1,4 @@
-## CloverEFIforN5110 ##
+## CloverEFI for DELL N5110 ##
 
 ### Postinstall EFI folder for 10.11.6 and DELL N5110 only.
 
