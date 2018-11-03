@@ -17,9 +17,9 @@ Boot sequence:  BIOS-> MBR(boot0xx, here is boot0ss for dual system) -> PBR(boot
 
 ##### PS: So 'PBR multiple boot options' and 'boot0ss'(or boot0af which is up to your demand,see more on https://clover-wiki.zetam.org/Installation) msut be checked. These options are installed directly to the MBR of a disk(very begining of a disk), so unless you erase the disk, these options will keep staying on MBR.
 
-##### 'APPLE' folder under EFI folder is to make Clover work.
+##### 'APPLE' folder under EFI folder has a firmware to make Clover work.
 
-##### No 'WINDOWS' folder under EFI folder here cause after installing Win correctly, WINDOWS folder would be added to your EFI partition,under EFI folder on that partition automatically.
+##### No 'WINDOWS' folder under EFI folder here cause after installing Win correctly, WINDOWS folder would be added to your EFI partition automatically, which is under EFI folder on that partition.
 
 
 
